@@ -1,0 +1,15 @@
+1.- Para podia compilar el proyecto instale:
+    npm i react-scripts
+
+    Link: https://www.npmjs.com/package/react-scripts
+
+
+2.- Despues se instalo el servidor con:
+    npm install -g serve
+    serve -s build
+
+    Link: https://create-react-app.dev/docs/deployment/
+
+
+3.- Ejecutar proyecto:
+    npm start
